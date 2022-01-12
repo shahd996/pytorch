@@ -1,0 +1,10 @@
+dataset/
+data/
+test_data/
+*.tar
+Image\ Segmentation/data/
+*.zip
+*.jpg
+*.png
+*.jpeg
+*.csv
